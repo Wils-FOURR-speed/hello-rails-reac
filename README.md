@@ -78,7 +78,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/kit0-0/hello-rails-react/
+  git clone https://github.com/Wils-FOURR-speed/hello-rails-react.git
 ```
 
 You need to setup database for these project
@@ -142,10 +142,11 @@ it will run the the server on ```localhost:3000```
 
 ## 👥 Author <a name="author"></a>
 
-👤 **kit0-0**
+👤 **WILSAN**
 
-- GitHub: [@kit0-0](https://github.com/kit0-0)
-
+- GitHub: [@githubhandle](https://github.com/Wils-FOURR-speed)
+- Twitter: [@twitterhandle](https://twitter.com/WFourrspeed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nji-wilsan-ndenge-47b7a826a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +165,7 @@ it will run the the server on ```localhost:3000```
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kit0-0/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/Wils-FOURR-speed/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
